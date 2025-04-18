@@ -5,5 +5,7 @@
 //   var valorIphone = 12.000;
 //   var nomeCurso = "Academia do Flutter";
 
+// bool eHome = true;
+
 //   Object objetoQualquer = '';
 // }
